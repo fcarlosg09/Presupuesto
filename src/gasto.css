@@ -1,0 +1,11 @@
+.gastos{
+    list-style: none;   
+    padding: .5rem 0;
+    border-bottom: 1px solid #e1e1e1;
+}
+
+.gasto{
+    background: #004085;
+    color:white;  
+    padding: .7rem;
+}
